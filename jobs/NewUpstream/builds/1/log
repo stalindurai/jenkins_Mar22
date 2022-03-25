@@ -1,0 +1,8 @@
+Started by user [8mha:////4PYgzWXO7Nr7TsLzYiLWjQ8HaC0pRTmn3JT+DZrSgSqEAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYe/dLi1CL94pJEoI0ARTq5XMEAAAA=[0mStalin D
+Running as SYSTEM
+Building in workspace /Users/stalindurai/.jenkins/jobs/NewUpstream/workspace
+[workspace] $ /bin/sh -xe /var/folders/tt/1v_fc14n0g78m2df6c2ppjqh0000gn/T/jenkins4476027324381772230.sh
++ pwd
+/Users/stalindurai/.jenkins/jobs/NewUpstream/workspace
+Triggering a new build of [8mha:////4BEDQB5qzm4ziSBiruf/sXSgn0hnYfbeuBwHPZ7Ioq6QAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/az8JH2/1HKX/PK84pKi1MRcfQDG8CGayAAAAA==[0mNewDownstream
+Finished: SUCCESS

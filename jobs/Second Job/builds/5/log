@@ -1,0 +1,7 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /Users/stalindurai/.jenkins/jobs/Second Job/workspace
+[workspace] $ /bin/sh -xe /var/folders/tt/1v_fc14n0g78m2df6c2ppjqh0000gn/T/jenkins14492235873971976369.sh
++ pwd
+/Users/stalindurai/.jenkins/jobs/Second Job/workspace
+Finished: SUCCESS

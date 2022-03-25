@@ -1,0 +1,36 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>NewUpstream</upstreamProject>
+            <upstreamUrl>job/NewUpstream/</upstreamUrl>
+            <upstreamBuild>1</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UserIdCause>
+                <userId>stalin</userId>
+              </hudson.model.Cause_-UserIdCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>15543</queueId>
+  <timestamp>1647779733226</timestamp>
+  <startTime>1647779733280</startTime>
+  <result>SUCCESS</result>
+  <duration>534</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/Users/stalindurai/.jenkins/jobs/NewDownstream/workspace</workspace>
+  <hudsonVersion>2.332.1</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>
